@@ -7,11 +7,11 @@ Objective:
  and cahnnel behaviour etc...
  
  Data Availabiity:
-  Customers: Customer Details
-  Sellers: Sellers Details
-  Product: Product Specification and informantions
-  Orders: Order details like date of the order, order id, order status
-  Order items: Order Level Info
-  Order review rating: Order payment information
-  Geo Location: Location Information
+  Customers: Customer Details,
+  Sellers: Sellers Details,
+  Product: Product Specification and informantions,
+  Orders: Order details like date of the order, order id, order status,
+  Order items: Order Level Info,
+  Order review rating: Order payment information,
+  Geo Location: Location Information,
   
